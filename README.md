@@ -24,6 +24,6 @@ This repository hosts a Java program called "CalculatorAPI" that implements a gr
 The "CalculatorAPI" is a Java program hosted in this GitHub repository that presents a straightforward yet functional graphical calculator built using the Swing library. With a clean and intuitive user interface, it allows users to perform basic arithmetic calculations effortlessly. Users can input numbers through digit buttons (0-9), execute operations like addition, subtraction, multiplication, and division, and handle decimal numbers with ease. The calculator also offers features like clearing the input, deleting the last character, negating the current value, and comprehensive error handling, including division by zero. The responsive design ensures a visually pleasing layout, while a JTextArea provides clear instructions for users. This repository serves as a practical demonstration of Java Swing GUI development and can be used for educational purposes or as a foundation for more advanced calculator applications. Feel free to explore the code, try out the calculator, and contribute to its enhancement or customization for your specific needs.
 
 ## Utilities Used :
-Java
-Swing
-IntelliJ - IDEA
+- Java
+- Swing
+- IntelliJ - IDEA
